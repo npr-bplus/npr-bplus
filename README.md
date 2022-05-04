@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nico Probst
+- 💻 Working @ b-plus technologies GmbH in Deggendorf, Germany
+- 👀 I’m interested in Machine Learning, App-Development
+- ✨ I’m currently working on AVETO.app
+- 🌱 I’m currently learning Flutter
